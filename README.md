@@ -14,3 +14,4 @@
 10. [Day 6 : Majority element](https://www.codingninjas.com/codestudio/problems/day-6-majority-element_8230731?challengeSlug=striver-sde-challenge)
 11. [Majority Element - II](https://www.codingninjas.com/codestudio/problems/majority-element-ii_8230738?challengeSlug=striver-sde-challenge)
 ## ***Day 2***
+1. [Rotate Matrix](https://www.codingninjas.com/codestudio/problems/rotate-matrix_8230774?challengeSlug=striver-sde-challenge&leftPanelTab=0)
